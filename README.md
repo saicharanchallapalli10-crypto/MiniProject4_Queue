@@ -29,7 +29,8 @@ Then in my Miniproject folder is the main.cpp that houses all the main code that
 
 Then lastly, my Readme and testing file are also in my miniproject folder 
 
-Visually: Miniproject4_Queue>Include>Queue.h 
+Visually: 
+          Miniproject4_Queue>Include>Queue.h 
           
           Miniproject4_Queue>src>Queue.cpp
           
