@@ -38,96 +38,106 @@ Example Usage:
 
 saicharan@Laptop99:~/EECE2140/MiniProject4_Queue$ g++ -std=c++17 main.cpp src/Queue.cpp -I include -o queueProgram
 saicharan@Laptop99:~/EECE2140/MiniProject4_Queue$ ./queueProgram
-Queue Menu ---
-1. Enqueue
-2. Dequeue
-3. Peek
-4. Size
-5. Exit
-Enter your choice: 1
+--- Queue Menu ---
+Enqueue
+Dequeue
+Peek
+Size
+Exit
+Enter your choice: Enqueue
 Enter value to enqueue: 2
 2 added to the queue.
-Queue Menu ---
-1. Enqueue
-2. Dequeue
-3. Peek
-4. Size
-5. Exit
-Enter your choice: 13
+
+--- Queue Menu ---
+Enqueue
+Dequeue
+Peek
+Size
+Exit
+Enter your choice: Invalid choice
 Invalid choice. Try again.
-Queue Menu ---
-1. Enqueue
-2. Dequeue
-3. Peek
-4. Size
-5. Exit
-Enter your choice: 1
+
+--- Queue Menu ---
+Enqueue
+Dequeue
+Peek
+Size
+Exit
+Enter your choice: Enqueue
 Enter value to enqueue: 13
 13 added to the queue.
-Queue Menu ---
-1. Enqueue
-2. Dequeue
-3. Peek
-4. Size
-5. Exit
-Enter your choice: 2
+
+--- Queue Menu ---
+Enqueue
+Dequeue
+Peek
+Size
+Exit
+Enter your choice: Dequeue
 2 removed from the queue.
-Queue Menu ---
-1. Enqueue
-2. Dequeue
-3. Peek
-4. Size
-5. Exit
-Enter your choice: 3
+
+--- Queue Menu ---
+Enqueue
+Dequeue
+Peek
+Size
+Exit
+Enter your choice: Peek
 Front of the queue: 13
-Queue Menu ---
-1. Enqueue
-2. Dequeue
-3. Peek
-4. Size
-5. Exit
-Enter your choice: 4
+
+--- Queue Menu ---
+Enqueue
+Dequeue
+Peek
+Size
+Exit
+Enter your choice: Size
 Number of people in queue: 1
-Queue Menu ---
-1. Enqueue
-2. Dequeue
-3. Peek
-4. Size
-5. Exit
-Enter your choice: 1
+
+--- Queue Menu ---
+Enqueue
+Dequeue
+Peek
+Size
+Exit
+Enter your choice: Enqueue
 Enter value to enqueue: 12
 12 added to the queue.
-Queue Menu ---
-1. Enqueue
-2. Dequeue
-3. Peek
-4. Size
-5. Exit
-Enter your choice: 1
+
+--- Queue Menu ---
+Enqueue
+Dequeue
+Peek
+Size
+Exit
+Enter your choice: Enqueue
 Enter value to enqueue: 14
 14 added to the queue.
-Queue Menu ---
-1. Enqueue
-2. Dequeue
-3. Peek
-4. Size
-5. Exit
-Enter your choice: 3
+
+--- Queue Menu ---
+Enqueue
+Dequeue
+Peek
+Size
+Exit
+Enter your choice: Peek
 Front of the queue: 13
-Queue Menu ---
-1. Enqueue
-2. Dequeue
-3. Peek
-4. Size
-5. Exit
-Enter your choice: 4
+
+--- Queue Menu ---
+Enqueue
+Dequeue
+Peek
+Size
+Exit
+Enter your choice: Size
 Number of people in queue: 3
-Queue Menu ---
-1. Enqueue
-2. Dequeue
-3. Peek
-4. Size
-5. Exit
-Enter your choice: 5
+
+--- Queue Menu ---
+Enqueue
+Dequeue
+Peek
+Size
+Exit
+Enter your choice: Exit
 Exiting.
-saicharan@Laptop99:~/EECE2140/MiniProject4_Queue$ 
+
