@@ -30,14 +30,14 @@ Then in my Miniproject folder is the main.cpp that houses all the main code that
 Then lastly, my Readme and testing file are also in my miniproject folder 
 
 Visually: Miniproject4_Queue>Include>Queue.h 
+          
           Miniproject4_Queue>src>Queue.cpp
-          Miniproject4_Queue>main.cpp>Readme>testing
+          
+          Miniproject4_Queue>main.cpp,Readme,testing
 
 ********************************************************************************************************************
 Example Usage:
 
-saicharan@Laptop99:~/EECE2140/MiniProject4_Queue$ g++ -std=c++17 main.cpp src/Queue.cpp -I include -o queueProgram
-saicharan@Laptop99:~/EECE2140/MiniProject4_Queue$ ./queueProgram
 --- Queue Menu ---
 Enqueue
 Dequeue
