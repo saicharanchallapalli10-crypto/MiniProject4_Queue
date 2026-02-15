@@ -38,106 +38,106 @@ Visually: Miniproject4_Queue>Include>Queue.h
 ********************************************************************************************************************
 Example Usage:
 
---- Queue Menu ---
-Enqueue
-Dequeue
-Peek
-Size
-Exit
-Enter your choice: Enqueue
-Enter value to enqueue: 2
-2 added to the queue.
+    --- Queue Menu ---
+    Enqueue
+    Dequeue
+    Peek
+    Size
+    Exit
+    Enter your choice: Enqueue
+    Enter value to enqueue: 2
+    2 added to the queue.
 
---- Queue Menu ---
-Enqueue
-Dequeue
-Peek
-Size
-Exit
-Enter your choice: Invalid choice
-Invalid choice. Try again.
+    --- Queue Menu ---
+    Enqueue
+    Dequeue
+    Peek
+    Size
+    Exit
+    Enter your choice: Invalid choice
+    Invalid choice. Try again.
 
---- Queue Menu ---
-Enqueue
-Dequeue
-Peek
-Size
-Exit
-Enter your choice: Enqueue
-Enter value to enqueue: 13
-13 added to the queue.
+    --- Queue Menu ---
+    Enqueue
+    Dequeue
+    Peek
+    Size
+    Exit
+    Enter your choice: Enqueue
+    Enter value to enqueue: 13
+    13 added to the queue.
 
---- Queue Menu ---
-Enqueue
-Dequeue
-Peek
-Size
-Exit
-Enter your choice: Dequeue
-2 removed from the queue.
+    --- Queue Menu ---
+    Enqueue
+    Dequeue
+    Peek
+    Size
+    Exit
+    Enter your choice: Dequeue
+    2 removed from the queue.
 
---- Queue Menu ---
-Enqueue
-Dequeue
-Peek
-Size
-Exit
-Enter your choice: Peek
-Front of the queue: 13
+    --- Queue Menu ---
+    Enqueue
+    Dequeue
+    Peek
+    Size
+    Exit
+    Enter your choice: Peek
+    Front of the queue: 13
 
---- Queue Menu ---
-Enqueue
-Dequeue
-Peek
-Size
-Exit
-Enter your choice: Size
-Number of people in queue: 1
+    --- Queue Menu ---
+    Enqueue
+    Dequeue
+    Peek
+    Size
+    Exit
+    Enter your choice: Size
+    Number of people in queue: 1
 
---- Queue Menu ---
-Enqueue
-Dequeue
-Peek
-Size
-Exit
-Enter your choice: Enqueue
-Enter value to enqueue: 12
-12 added to the queue.
+    --- Queue Menu ---
+    Enqueue
+    Dequeue
+    Peek
+    Size
+    Exit
+    Enter your choice: Enqueue
+    Enter value to enqueue: 12
+    12 added to the queue.
 
---- Queue Menu ---
-Enqueue
-Dequeue
-Peek
-Size
-Exit
-Enter your choice: Enqueue
-Enter value to enqueue: 14
-14 added to the queue.
+    --- Queue Menu ---
+    Enqueue
+    Dequeue
+    Peek
+    Size
+    Exit
+    Enter your choice: Enqueue
+    Enter value to enqueue: 14
+    14 added to the queue.
 
---- Queue Menu ---
-Enqueue
-Dequeue
-Peek
-Size
-Exit
-Enter your choice: Peek
-Front of the queue: 13
+    --- Queue Menu ---
+    Enqueue
+    Dequeue
+    Peek
+    Size
+    Exit
+    Enter your choice: Peek
+    Front of the queue: 13
 
---- Queue Menu ---
-Enqueue
-Dequeue
-Peek
-Size
-Exit
-Enter your choice: Size
-Number of people in queue: 3
+    --- Queue Menu ---
+    Enqueue
+    Dequeue
+    Peek
+    Size
+    Exit
+    Enter your choice: Size
+    Number of people in queue: 3
 
---- Queue Menu ---
-Enqueue
-Dequeue
-Peek
-Size
-Exit
-Enter your choice: Exit
-Exiting.
+    --- Queue Menu ---
+    Enqueue
+    Dequeue
+    Peek
+    Size
+    Exit
+    Enter your choice: Exit
+    Exiting.
 
